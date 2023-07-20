@@ -59,14 +59,12 @@ h2{
 }
 
 
-@media (min-width: 1200px)
 .index-list-modern-block {
     max-width: 496px;
     margin-left: auto;
     padding: 15px 185px 30px 45px;
 }
 
-@media (min-width: 992px)
 .index-list-modern-block {
     max-width: 390px;
     margin-right: 0;
